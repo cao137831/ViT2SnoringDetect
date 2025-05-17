@@ -1,0 +1,2 @@
+# ViT2SnoringDetect
+使用预训练的ViT微调任务到鼾声检测任务
